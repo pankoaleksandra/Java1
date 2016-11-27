@@ -1,7 +1,7 @@
 /**
  * Created by Ola on 2016-11-22.
  */
-public class DooBee {
+public class DooBeee {
     public static void main(String[] args) {
         int x = 1;
         while (x < 4) {
