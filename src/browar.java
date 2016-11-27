@@ -1,7 +1,7 @@
 /**
  * Created by Ola on 2016-11-22.
  */
-public class browar {
+public class Browar {
     public static void main(String[] args) {
         int x = 3;
         if (x==3){
